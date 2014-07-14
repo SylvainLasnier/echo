@@ -1,6 +1,10 @@
 echo Docker image
 =================
 
+This is a Docker test.  
+This image run a tiny container send an echo
+
+
 I use tiny OS Busybox to this test. The image size is 2.5Mb
 
 You could use this image following these steps :
