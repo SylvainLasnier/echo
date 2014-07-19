@@ -38,3 +38,5 @@ Enjoy
     Hello World!
 
 You are an docker expert!
+
+Have fun and try my other [docker images](https://hub.docker.com/u/sylvainlasnier/) ^^
