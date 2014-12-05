@@ -1,7 +1,7 @@
-echo Docker image
-=================
+echo docker tutorial image
+==========================
 
-This is a Docker test.  
+This is a docker tutorial.  
 This image run a tiny container send an echo
 
 
